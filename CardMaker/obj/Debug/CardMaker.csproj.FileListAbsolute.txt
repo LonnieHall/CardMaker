@@ -1,0 +1,24 @@
+c:\users\lhall.admin\documents\visual studio 2013\Projects\CardMaker\CardMaker\bin\Debug\CardMaker.exe.config
+c:\users\lhall.admin\documents\visual studio 2013\Projects\CardMaker\CardMaker\bin\Debug\CardMaker.exe
+c:\users\lhall.admin\documents\visual studio 2013\Projects\CardMaker\CardMaker\bin\Debug\CardMaker.pdb
+c:\users\lhall.admin\documents\visual studio 2013\Projects\CardMaker\CardMaker\obj\Debug\CardMaker.csprojResolveAssemblyReference.cache
+c:\users\lhall.admin\documents\visual studio 2013\Projects\CardMaker\CardMaker\obj\Debug\CardMaker.Properties.Resources.resources
+c:\users\lhall.admin\documents\visual studio 2013\Projects\CardMaker\CardMaker\obj\Debug\CardMaker.csproj.GenerateResource.Cache
+c:\users\lhall.admin\documents\visual studio 2013\Projects\CardMaker\CardMaker\obj\Debug\CardMaker.exe
+c:\users\lhall.admin\documents\visual studio 2013\Projects\CardMaker\CardMaker\obj\Debug\CardMaker.pdb
+c:\users\lhall.admin\documents\visual studio 2013\Projects\CardMaker\CardMaker\obj\Debug\CardMaker.frmCardMaker.resources
+G:\Data\Code\C#\Games From Subversion Repo\CardMaker\CardMaker\bin\Debug\CardMaker.exe.config
+G:\Data\Code\C#\Games From Subversion Repo\CardMaker\CardMaker\obj\Debug\CardMaker.exe
+G:\Data\Code\C#\Games From Subversion Repo\CardMaker\CardMaker\obj\Debug\CardMaker.pdb
+G:\Data\Code\C#\Games From Subversion Repo\CardMaker\CardMaker\bin\Debug\CardMaker.exe
+G:\Data\Code\C#\Games From Subversion Repo\CardMaker\CardMaker\bin\Debug\CardMaker.pdb
+G:\Data\Code\C#\Games From Subversion Repo\CardMaker\CardMaker\obj\Debug\CardMaker.csprojResolveAssemblyReference.cache
+G:\Data\Code\C#\Games From Subversion Repo\CardMaker\CardMaker\obj\Debug\CardMaker.frmAction.resources
+G:\Data\Code\C#\Games From Subversion Repo\CardMaker\CardMaker\obj\Debug\CardMaker.frmBase.resources
+G:\Data\Code\C#\Games From Subversion Repo\CardMaker\CardMaker\obj\Debug\CardMaker.frmEffect.resources
+G:\Data\Code\C#\Games From Subversion Repo\CardMaker\CardMaker\obj\Debug\CardMaker.frmGeneric.resources
+G:\Data\Code\C#\Games From Subversion Repo\CardMaker\CardMaker\obj\Debug\CardMaker.frmCharacter.resources
+G:\Data\Code\C#\Games From Subversion Repo\CardMaker\CardMaker\obj\Debug\CardMaker.frmLocation.resources
+G:\Data\Code\C#\Games From Subversion Repo\CardMaker\CardMaker\obj\Debug\CardMaker.frmTrap.resources
+G:\Data\Code\C#\Games From Subversion Repo\CardMaker\CardMaker\obj\Debug\CardMaker.Properties.Resources.resources
+G:\Data\Code\C#\Games From Subversion Repo\CardMaker\CardMaker\obj\Debug\CardMaker.csproj.GenerateResource.Cache
